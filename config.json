@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachepalidate",
+        "uuid": 29782971,
+        "checksum": "6f30pk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
